@@ -7,7 +7,7 @@ using SPT.Reflection.Patching;
 
 namespace FIR_MEANS_FIR.Client;
 
-[BepInPlugin("eu.thescrewcollab.firmeansifir.client", "FIR_MEANS_FIR Client", "1.0.0")]
+[BepInPlugin("eu.thescrewcollab.firmeansifir.client", "FIR_MEANS_FIR Client", "1.2.0")]
 public class FirMeansFirPlugin : BaseUnityPlugin
 {
     private void Awake()
